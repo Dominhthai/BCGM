@@ -1,4 +1,4 @@
- # BCGM - A combined Approach in solving Imbalanced MultiModal Problem in Emotion Recognition
+ # BCGM - A combined approach for solving Imbalance in MultiModal Emotion Recognition problem.
 
 ## Code instruction
 
