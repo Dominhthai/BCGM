@@ -1,4 +1,4 @@
-python main.py \
+python main_mosi.py \
     --train \
     --use_adam_drop \
     --fusion_method concat \

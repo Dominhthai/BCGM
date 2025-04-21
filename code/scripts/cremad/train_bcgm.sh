@@ -1,4 +1,4 @@
-python main.py \
+python main_cremad.py \
     --train \
     --use_adam_drop \
     --fusion_method sum \
