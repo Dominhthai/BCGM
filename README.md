@@ -13,8 +13,7 @@ This repository contains the implementation of **BCGM** (Balanced Combined Gradi
   - [Testing](#testing)
 - [Datasets](#datasets)
 - [Results](#results)
-- [Citation](#citation)
-- [License](#license)
+- [Acknowledgement](#Acknowledgement)
 
 ## Installation
 
