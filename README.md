@@ -88,8 +88,8 @@ The **Carnegie Mellon University Multimodal Opinion Sentiment and Emotion Intens
 
 | Dataset | Accuracy | F1-Score | mAP   |
 |---------|----------|----------|-------|
-| CREMA-D | 87.91    | --       | --    |
-| CMU-MOSI| 78.40    | 78.30    | 81.32 |
+| CREMA-D | 87.91    | --       | 81.32 |
+| CMU-MOSI| 78.40    | 78.30    | --    |
 
 *Please update with your experimental results*
 
