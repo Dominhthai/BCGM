@@ -1,8 +1,5 @@
 # BCGM: A Combined Approach for Solving Imbalance in Multimodal Emotion Recognition
 
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-
 ## Abstract
 
 This repository contains the implementation of **BCGM** (Balanced Combined Gradient Matching), a novel approach designed to address class imbalance challenges in multimodal emotion recognition tasks. Our method demonstrates improved performance on benchmark datasets through innovative combination strategies.
@@ -89,29 +86,12 @@ The **Carnegie Mellon University Multimodal Opinion Sentiment and Emotion Intens
 
 ## Results
 
-| Dataset | Accuracy | F1-Score | Precision | Recall |
-|---------|----------|----------|-----------|---------|
-| CREMA-D | --       | --       | --        | --      |
-| CMU-MOSI| --       | --       | --        | --      |
+| Dataset | Accuracy | F1-Score | mAP   |
+|---------|----------|----------|-------|
+| CREMA-D | 87.91    | --       | --    |
+| CMU-MOSI| 78.40    | 78.30    | 81.32 |
 
 *Please update with your experimental results*
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{your_paper_2024,
-  title={BCGM: A Combined Approach for Solving Imbalance in Multimodal Emotion Recognition},
-  author={Your Name and Co-authors},
-  journal={Conference/Journal Name},
-  year={2024}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -120,4 +100,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-For questions or issues, please open an issue in this repository or contact [your-email@domain.com](mailto:your-email@domain.com).
+For questions or issues, please open an issue in this repository or contact [21020240@vnu.edu.vn](mailto:21020240@vnu.edu.vn).
