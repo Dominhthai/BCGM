@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This repository contains the implementation of **BCGM** (Balanced Combined Gradient Matching), a novel approach designed to address class imbalance challenges in multimodal emotion recognition tasks. Our method demonstrates improved performance on benchmark datasets through innovative combination strategies.
+This repository contains the implementation of **BCGM** (Balanced Classifier-Guided Modulation), a novel approach designed to address class imbalance challenges in multimodal emotion recognition tasks. Our method demonstrates improved performance on benchmark datasets through innovative combination strategies.
 
 ## Table of Contents
 
