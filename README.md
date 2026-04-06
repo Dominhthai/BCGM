@@ -1,4 +1,4 @@
-# BCGM: A Combined Approach for Solving Imbalance in Multimodal Emotion Recognition
+# BCGM: A Combined Approach for Solving Imbalance in Multimodal Emotion Recognition (SoICT2025 - Oral Presentation)
 
 ## Abstract
 
