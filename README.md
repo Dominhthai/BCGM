@@ -6,6 +6,7 @@ This repository contains the implementation of **BCGM** (Balanced Classifier-Gui
 
 ## Table of Contents
 
+- [Pipeline](#Architecture)
 - [Installation](#installation)
 - [Dataset Setup](#dataset-setup)
 - [Usage](#usage)
@@ -14,6 +15,8 @@ This repository contains the implementation of **BCGM** (Balanced Classifier-Gui
 - [Datasets](#datasets)
 - [Results](#results)
 - [Acknowledgement](#Acknowledgments)
+
+## Architecture Overview
 
 ## Installation
 
