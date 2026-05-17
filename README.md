@@ -17,6 +17,7 @@ This repository contains the implementation of **BCGM** (Balanced Classifier-Gui
 - [Acknowledgement](#Acknowledgments)
 
 ## Architecture Overview
+<img src="./pipeline (1).png" width="500">
 
 ## Installation
 
